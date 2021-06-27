@@ -13,7 +13,7 @@ Project ...
 
 ## Getting Started
 
-First, install the depencies.
+First, install the dependencies.
 
 ```typescript
 $ npm install
